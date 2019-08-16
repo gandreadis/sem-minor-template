@@ -15,4 +15,4 @@ This is a boilerplate project setup for you to get started! Feel free to customi
 In PyCharm, run `main.py` by right-clicking on the file and selecting `Run 'main'`.
 
 ## Testing
-To run all tests, right-click on the `project/test` folder and select
+To run all tests, right-click on the `project/test` folder and select `Run 'pytest in test'`. To run an individual test, click on the green play-button next to it.
