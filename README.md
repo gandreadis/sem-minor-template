@@ -12,8 +12,8 @@ This is a boilerplate project setup for you to get started! Feel free to customi
 * Select `Check out from Version Control` > `Git` > enter your project GitLab project URL
 * `Would you like to open the directory?` > `Yes`
 * A couple of configurations once you're inside:
-    * Go to `Settings` > `Project` > `Project Interpreter` > `Show all` > `Add (+)` > `Virtualenv Environment` > Select a version of Python as `Base Interpreter` > `OK` (3 times)
-    * Go to `Settings` > `Tools` > `Python Integrated Tools` and change the default test runner to be `pytest`
+    * Go to `File` > `Settings` > `Project` > `Project Interpreter` > `Show all` > `Add (+)` > `Virtualenv Environment` > Select a version of Python as `Base Interpreter` > `OK` (3 times)
+    * Go to `File` > `Settings` > `Tools` > `Python Integrated Tools` and change the default test runner to be `pytest`
     * Open `requirements.txt`, and in the yellow popup that appears, click on `Install requirements`
 
 ## Running
