@@ -41,5 +41,5 @@ The output goes into the `htmlcov` directory. You can view your coverage report 
 Run `pylint` to check for code style violations by running the following command (from within the PyCharm terminal):
 
 ```
-pylint *.py
+pylint project
 ```
